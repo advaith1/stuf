@@ -1,0 +1,42 @@
+#createdby {
+  font-weight: bold;
+  text-decoration: none !important;
+}
+
+  #createdby b {
+      background-color: #d8d8d8;
+      display: inline-block;
+      height: 25px;
+      border-radius: 30px;
+      vertical-align: middle;
+      transform: translate(0px, -2px);
+      margin-left: 3px;
+      text-decoration: none !important;
+  }
+
+#createdby img {
+    width: 25px;
+    border-radius: 50%;
+    margin: -6px 0;
+}
+
+#createdby span {
+    line-height: 26px;
+    margin-left: 4px;
+    margin-right: 8px;
+    text-decoration: none !important;
+}
+
+#createdby i {
+    opacity: 0.5;
+}
+.owners a {
+  color: grey;
+}
+.owners {
+  /*border-bottom: 1px solid #ccd6f8;*/
+  /*border-top: 1px solid #ccd6f8;*/
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
+}
