@@ -1,0 +1,17 @@
+embed {
+    border-radius: 5px
+}
+span.title {
+    color: whitesmoke
+}
+footer.footer {
+    display: none
+}
+html {
+    background-color: #171717
+}
+code {
+    background: #212428 !important;
+    color: #7289da !important;
+    border-radius: 3px;
+}
